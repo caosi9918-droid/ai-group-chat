@@ -1,0 +1,4 @@
+# data.json 里有使用者自己的 API key，绝不能提交到仓库
+data.json
+data.json.tmp
+node_modules/
