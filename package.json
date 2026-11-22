@@ -1,0 +1,1 @@
+{"description":"微信风格 AI 群聊（Node.js 零依赖独立部署版）","engines":{"node":">=18"},"main":"server.js","name":"ai-group-chat","scripts":{"start":"node server.js"},"version":"1.0.0"}
